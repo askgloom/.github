@@ -68,9 +68,7 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for deta
 
 ## Community
 
-- [Discord Server](https://discord.gg/gloom)
-- [Discussion Forum](https://github.com/yourusername/gloom/discussions)
-- [Monthly Developer Calls](docs/community/dev-calls.md)
+- [Discussion Forum](https://github.com/askgloom/toolkit/discussions)
 
 ## License
 
