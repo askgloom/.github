@@ -68,7 +68,7 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for deta
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details
+MIT License - See LICENSE for details
 
 ## Acknowledgments
 
