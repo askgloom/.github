@@ -66,10 +66,6 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for deta
 - Pull request procedure
 - Community guidelines
 
-## Community
-
-- [Discussion Forum](https://github.com/askgloom/toolkit/discussions)
-
 ## License
 
 MIT License - See [LICENSE](LICENSE) for details
