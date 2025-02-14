@@ -81,5 +81,5 @@ Developed with insights from:
 ## Contact
 
 - Maintainer: [Gloom Team](https://github.com/askgloom)
-- Email: team@usegloom.com
-- X: [@GloomToolkit](https://x.com/use_gloom)
+- Email: team@askgloom.com
+- X: [@use_gloom](https://x.com/use_gloom)
